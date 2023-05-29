@@ -26,3 +26,5 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['pluginname'] = 'Enrolled Course';
+
+$string['title'] = 'Course Info';
